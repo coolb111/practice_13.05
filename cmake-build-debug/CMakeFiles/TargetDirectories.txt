@@ -1,0 +1,3 @@
+C:/Users/nikol/OneDrive/Desktop/C++/Repositories/practice_13.05/cmake-build-debug/CMakeFiles/practice_13.05.dir
+C:/Users/nikol/OneDrive/Desktop/C++/Repositories/practice_13.05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikol/OneDrive/Desktop/C++/Repositories/practice_13.05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
