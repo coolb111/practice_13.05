@@ -63,8 +63,6 @@ void printMostVisitedRoom(Room* rooms[], int roomCount) {
 }
 
 int main() {
-    system("chcp 65001");
-
     const int roomCount = 5;
 
     Room* rooms[roomCount];
